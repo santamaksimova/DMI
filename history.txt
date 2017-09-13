@@ -1,0 +1,30 @@
+    1  firefox
+    2  man echo
+    3  echo Tecmint is a community of Linux Nerds
+    4  x=10
+    5  echo The value of variable x = $x
+    6  echo -e "Tecmint \bis \ba \bcomminity \bof \bLinux \bNerds"
+    7  -e "Tecmint \nis \na \ncommunity \nof \nLinux \nNerds"
+    8  echo -e "Tecmint \nis \na \ncommunity \nof \nLinux \nNerds"
+    9  echo -e "Tecmint \tis \ta \tcommunity \tof \tLinux \tNerds"
+   10  echo -e "\n\tTecmint \n\tis \n\ta \n\tcommunity \n\tof \n\tLinux \n\"
+echo -e "\n\tTecmint \n\tis \n\ta \n\tcommunity \n\tof \n\tLinux \n\tNerds"
+echo -e "\n\tTecmint \n\tis \n\ta \n\tcommunity \n\tof \n\tLinux \n\"
+   11  echo -e "\n\tTecmint \n\tis \n\ta \n\tcommunity \n\tof \n\tLinux \n\tNerds"
+   12  echo -e"\vTecmint \vis \va \vcommunity \vof \vLinux \vNerds"
+   13  echo -e "vTecmint \vis \va \vcommunity \vof \vLinux \vNerds"
+   14  echo -e "\n\vTecmint \n\vis \n\va \n\vcommunity \n\vof \n\vLinux \n\vNerds"
+   15* 
+   16  echo -e "Tecmint is a community \cof Linux Nerds"
+   17  echo -n "Tecmint is a community of Linux Nerds"
+   18  echo -e "Tecmint is a community of \aLinux Nerds"
+   19  echo *
+   20  echo *.jpeg
+   21  echo*.jpeg
+   22  echo "Test Page" > testpage
+   23  cat testpage
+   24  echo *.ccc
+   25  echo "Test Page"
+   26  echo "pwd"
+   27  ls -l
+   28  history > history.txt
