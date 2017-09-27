@@ -1,0 +1,65 @@
+    1  git clone https://github.com/santamaksimova/DMI.git
+    2  ls -l
+    3  ls -la
+    4  cd DMI
+    5  ls -la
+    6  variable_name=variable_value
+    7  mainiigais=10
+    8  echo $mainiigais
+    9  echo $mainigais
+   10  mainiigais_________=20
+   11  echo $mainiigais_________
+   12  mainiigais1=20
+   13  pwd
+   14  nano shell_programming.sh
+   15  ls -l
+   16  chmod 744 shell_programming.sh
+   17  ls -l
+   18  shell_programming.sh
+   19  pwd
+   20  ./shell_programming.sh
+   21  nano shell_programming.sh
+   22  ./shell_programming.sh
+   23  nano shell_programming.sh
+   24  ./shell_programming.sh
+   25  ls -l
+   26  pwd
+   27  ls -la
+   28  nano git init
+   29  ls -la
+   30  nano git-upload 
+   31  git-upload 
+   32  pwd
+   33  echo $PATH
+   34  PATH=$PATH:~/DMI
+   35  echo $PATH
+   36  git-upload 
+   37  ls -l
+   38  chmod 744 git-upload 
+   39  git-upload 
+   40  nano git-upload 
+   41  git-upload 
+   42  pwd
+   43  nano shell_programming.sh
+   44  echo $0
+   45  echo $$
+   46  echo $n
+   47  echo $#
+   48  echo $*
+   49  echo $$
+   50  echo $!
+   51  nano shell_programming.sh 
+   52  /shell_programming.sh
+   53  ./shell_programming.sh
+   54* 
+   55  shell_programming.sh arg1
+   56  shell_programming.sh arg1 arg2
+   57  shell_programming.sh arg1 arg2 arg3
+   58  nano shell_programming.sh 
+   59  shell_programming.sh arg1 arg2
+   60  nano shell_programming.sh 
+   61  shell_programming.sh arg1 arg2
+   62  nano shell_programming.sh 
+   63  shell_programming.sh arg1 arg2
+   64  nano git-upload
+   65  history > history_20170927.txt
