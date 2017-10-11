@@ -1,0 +1,21 @@
+    1  git clone https://github.com/santamaksimova/DMI.git
+    2  ls -l
+    3  cd DMI
+    4  nano
+    5  nano shell-operator.sh
+    6  ls
+    7  ls -l
+    8  nano shell-operators.sh
+    9  ./shell_operators.sh
+   10  nano git-upload
+   11  history >history_20171011.txt
+   12  shell-operators_.sh
+   13  ls -l
+   14  chmod 744 shell-operators.sh
+   15  ls -l
+   16  ./shell_operators.sh
+   17  ./shell-operators.sh
+   18  nano shell-operators.sh
+   19  ./shell-operators.sh
+   20  ls -l
+   21  history >history_20171011.txt
