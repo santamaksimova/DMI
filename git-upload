@@ -7,3 +7,9 @@ git add .
 git commit -m $1
 git push origin master
 fi
+gut config --global user.email santamaksimova11@inbox.lv
+git add
+#git commit -m "20171018"
+git commit -m $1
+git push origin master
+fi

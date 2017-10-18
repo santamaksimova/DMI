@@ -1,0 +1,34 @@
+    1  firefox
+    2  nano
+    3  firefoxfirefox
+    4  nano dialogs.sh
+    5  ls -l
+    6  git clone
+    7  git clone https://github.com/santamaksimova
+    8  git clone https://github.com/santamaksimova/DMI.git
+    9  ls -l
+   10  nano dialogs.sh
+   11  cd DMI
+   12  nano dialogs.sh
+   13  chmod 744
+   14  chmod dialogs.sh
+   15  chmod 744 dialogs.sh
+   16  ls -la
+   17  ./dialogs.sh
+   18  nano dialogs.sh
+   19  y
+   20  nano dialogs.sh
+   21* 
+   22  nano dialogs.sh
+   23  ./dialogs.sh
+   24  nano dialogs.sh
+   25  ./dialogs.sh
+   26  nano dialogs.sh
+   27  ./dialogs.sh
+   28  nano dialogs.sh
+   29  cp dialogs.sh a_VS_b_VS_c.sh
+   30  nano a_VS_b_VS_c.sh
+   31  nano
+   32  nano test.sh
+   33  nano git-upload
+   34  history > history_20171018.txt
