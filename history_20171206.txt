@@ -1,0 +1,1000 @@
+ 1016  mount
+ 1017  ls /dev/disk/by-uuid/
+ 1018  ls -l /dev/disk/by-uuid/
+ 1019  sudo fdisk -l
+ 1020  su rtu
+ 1021  su rtu
+ 1022  su
+ 1023  su rtu
+ 1024  /usr/local/MATLAB/R2012a/bin/matlab 
+ 1025  mdir -p /home/user/Documents/MATLAB
+ 1026  mkdir -p /home/user/Documents/MATLAB
+ 1027  rm -rf Documents 
+ 1028  mkdir -p /home/user/Documents/MATLAB
+ 1029  ssh -X 171REB178@231.175.92.22
+ 1030  firefox
+ 1031  ssh -x X171REB178@231.175.92.22
+ 1032  ssh -X x171REB178@213.175.92.22
+ 1033  git clone https://github.com/Stefanija101/DMI
+ 1034  l -ls
+ 1035  git clone https://github.com/Stefanija101/DMI
+ 1036  nano if.sh
+ 1037  git clone https://github.com/Stefanija101.git
+ 1038  chmod 744 if.sh
+ 1039  ./if.sh 10
+ 1040  git clone https://github.com/Stefanija101/DMI
+ 1041  rm -rf DMI
+ 1042  git clone https://github.com/Stefanija101/DMI
+ 1043  cd DMI
+ 1044  nano if.sh
+ 1045  ./if.sh 10
+ 1046  chmod 744 if.sh
+ 1047  ./if.sh 10
+ 1048  nano if.sh
+ 1049  ./if.sh 10
+ 1050  nano if.sh
+ 1051  ./if.sh 0
+ 1052  nano if.sh
+ 1053  ./if.sh 0
+ 1054  nano if.sh
+ 1055  ./if.sh 0
+ 1056  ./if.sh -10
+ 1057  nano if.sh
+ 1058  ./if.sh -10
+ 1059  ./if.sh 0
+ 1060  nano if.sh
+ 1061  ./if.sh 0
+ 1062  ./if.sh -10
+ 1063  ./if.sh 10
+ 1064  nano if.sh
+ 1065  ./if.sh 0
+ 1066  nano shell_examples.sh
+ 1067  nano shell_operations.sh
+ 1068  nano if.sh
+ 1069  nano 3skaitli.sh
+ 1070  nano if.sh
+ 1071  nano 3skaitli.sh
+ 1072  nano if.sh
+ 1073  nano 3skaitli.sh
+ 1074  nano if.sh
+ 1075  nano 3skaitli.sh
+ 1076  nano if.sh
+ 1077  nano 3skaitli.sh
+ 1078  nano if.sh
+ 1079  nano 3skaitli.sh
+ 1080  nano if.sh
+ 1081  nano 3skaitli.sh
+ 1082  nano if.sh
+ 1083  nano 3skaitli.sh
+ 1084  chmod 744 3skaitli.sh
+ 1085  ./3skaitli.sh
+ 1086  ./3skaitli.sh 1 2 3
+ 1087  nano 3skaitli.sh
+ 1088  ./3skaitli.sh 1 2 3
+ 1089  nano 3skaitli.sh
+ 1090  ./3skaitli.sh 1 2 3
+ 1091  nano 3skaitli.sh
+ 1092  nano if.sh
+ 1093  nano 3skaitli.sh
+ 1094  ./3skaitli.sh 1 2 3
+ 1095  nano 3skaitli.sh
+ 1096  ./3skaitli.sh 1 2 3
+ 1097  nano 3skaitli.sh
+ 1098  nano array_loop.sh
+ 1099  chmod 744 array_loop.sh
+ 1100  ./array_loop.sh 5 8 9
+ 1101  nano array_loop.sh
+ 1102  ./array_loop.sh 5 8 9
+ 1103  nano array_loop.sh
+ 1104  ./array_loop.sh 5 8 9
+ 1105  89 78
+ 1106  89 78 90
+ 1107  ./array_loop.sh 89 63
+ 1108  ./array_loop.sh 8 5
+ 1109  nano array_loop.sh
+ 1110  ./array_loop.sh 100
+ 1111  nano array_loop.sh
+ 1112  ./array_loop.sh 100
+ 1113  ./array_loop.sh 10 0 8 7 6 
+ 1114  ./array_loop.sh 10 0 8 7 6 9 8 6 7 8 
+ 1115  nano array_loop.sh
+ 1116  ./array_loop.sh 1 2 3
+ 1117  nano array_loop.sh
+ 1118  nano 3skaitli.sh
+ 1119  ./3skaitli.sh 1 2 3
+ 1120  nano 3skaitli.sh
+ 1121  history > history_20171025.txt
+ 1122  cat git-upload
+ 1123  ./gitupload 20171025_1605
+ 1124  cat git-upload
+ 1125  ./git-upload 20171025_16_05
+ 1126  firefox $
+ 1127  firefox &
+ 1128  git clone https://github.com/KriVro98/DMI
+ 1129  rm -rf DMI
+ 1130  git clone https://github.com/KriVro98/DMI
+ 1131  ls -l
+ 1132  cd DMI
+ 1133  ls -l
+ 1134  nano
+ 1135  ls -l
+ 1136  nano if.sh
+ 1137  chmod 744 if_C03
+ 1138  nano if_CO3.sh
+ 1139  nano if.sh
+ 1140  chmod 744 if.sh
+ 1141  ./if.sh 1
+ 1142  nano
+ 1143  nano if.sh
+ 1144  ./if.sh 1
+ 1145  nano if.sh
+ 1146  ./if.sh 1
+ 1147  nano if.sh
+ 1148  ./if.sh 1
+ 1149  ./if.sh -0
+ 1150  -124124124
+ 1151  ./if.sh -124214
+ 1152  ./if.sh0
+ 1153  ./if.sh 0
+ 1154  ./if.sh -0
+ 1155  ./if.sh +0
+ 1156  nano if.sh
+ 1157  ./if.sh +0
+ 1158  ./if.sh +124
+ 1159  ./if.sh +124 532523
+ 1160  ./if.sh +124 un 435
+ 1161  ./if.sh -4356
+ 1162  nano if.sh
+ 1163  ./if.sh 4364
+ 1164  ./if.sh -12421
+ 1165  ./if.sh 0
+ 1166  nano if.sh
+ 1167  ./if.sh 0
+ 1168  nano if.sh
+ 1169  ./if.sh -12421
+ 1170  ./if.sh 4364
+ 1171  nano if.sh
+ 1172  nano array_loop.sh
+ 1173  ./array_loop.sh 1
+ 1174  chmod 744 array_loop.sh
+ 1175  ./array_loop.sh 1
+ 1176  nano array_loop.sh
+ 1177  ./array_loop.sh 1
+ 1178  ./array_loop.sh -1
+ 1179  ./array_loop.sh -1 1234 0 -2 -0.5
+ 1180  history >history_20171026.txt
+ 1181  ls -l
+ 1182  nano git upload
+ 1183  nano git-upload
+ 1184  git-upload
+ 1185  ./git upload
+ 1186  ./git-upload
+ 1187  clear
+ 1188  ssh x171REB171@213.175.92.22
+ 1189  firefox
+ 1190  firefox &]
+ 1191  firefox
+ 1192  git clone https://github.com/santamaksimova/DMI.git
+ 1193  cd DMI
+ 1194  mkdir PHYTON
+ 1195  cd PHYTON
+ 1196  whereis pyton
+ 1197  whereis python
+ 1198  nano hello.py
+ 1199  chmod 744 hello.py
+ 1200  ./hello.py
+ 1201  nano hello.py
+ 1202  ./hello.py
+ 1203  nano hello.py
+ 1204  ./hello.py
+ 1205  nano hello.py
+ 1206  ./hello.py
+ 1207  nano hello.py
+ 1208  ./hello.py
+ 1209  nano hello.py
+ 1210  ./hello.py
+ 1211  nano hello.py
+ 1212  ./variableso.py
+ 1213  nano hello.py
+ 1214  nano variables.py
+ 1215  chmod 744 variables.py
+ 1216  ./variables.py
+ 1217  nano variables.py
+ 1218  ./variables.py
+ 1219  cat  variables.py
+ 1220  nano variables.py
+ 1221  ./variables.py
+ 1222  nano variables.py
+ 1223  ./variables.py
+ 1224  cat  variables.py
+ 1225  nano variables.py
+ 1226  ./variables.py
+ 1227  nano variables.py
+ 1228  ./variables.py
+ 1229  nano variables.py
+ 1230  ./variables.py
+ 1231  nano variables.py
+ 1232  ./variables.py
+ 1233  nano variables.py
+ 1234  ./variables.py
+ 1235  nano variables.py
+ 1236  ./variables.py
+ 1237  nano variables.py
+ 1238  ./variables.py
+ 1239  nano dialogs.py
+ 1240  chmod 744 dialogs.py
+ 1241  ./dialogs.py
+ 1242  nano dialogs.py
+ 1243  ./dialogs.py
+ 1244  nano dialogs.py
+ 1245  ./dialogs.py
+ 1246  nano dialogs.py
+ 1247  ./dialogs.py
+ 1248  nano dialogs.py
+ 1249  ./dialogs.py
+ 1250  nano dialogs.py
+ 1251  ./dialogs.py
+ 1252  nano dialogs.py
+ 1253  ./dialogs.py
+ 1254  nano dialogs.py
+ 1255  nano dialogs.py
+ 1256  chmod 744 if.py
+ 1257  nano if.py
+ 1258  chmod 744 if.py
+ 1259  ./if.py
+ 1260  5
+ 1261  nano if.py
+ 1262  ./if.py
+ 1263  5
+ 1264  nano if.py
+ 1265  PYTHON$ python if.py
+ 1266  nano if.py
+ 1267  python if.py
+ 1268  python if.py 
+ 1269  cd ..
+ 1270  dmi
+ 1271  history >  history_20171108.txt
+ 1272  cat git-upload 
+ 1273  nano git-upload 
+ 1274  ./git-upload
+ 1275  git clone https://github.com/santamaksimova/DMI.git
+ 1276  ls -l
+ 1277  mv PHYTON/ DMI/
+ 1278  ls -lt
+ 1279  mv history_20171108.txt DMI/
+ 1280  ls -lt
+ 1281  cd DMI/
+ 1282  ls -l
+ 1283  cat git-upload 
+ 1284  ./git-upload 20171108_12_05
+ 1285  cd ..
+ 1286  ls
+ 1287  rm -rf DMI
+ 1288  git clone https://github.com/samtamaksimova
+ 1289  firefox
+ 1290  git clone https://github.com/Stefanija101
+ 1291  & firefox
+ 1292  $ firefox
+ 1293  git clone https://github.com/Stefanija101
+ 1294  $ firefox
+ 1295  firefox
+ 1296  ls -l
+ 1297  git clone https://github.com/Stefanija101
+ 1298  git clone https://github.com/Stefanija101/DMI.git
+ 1299  cd DMI
+ 1300  mkdir PYTHON
+ 1301  cd PYTHON
+ 1302  nano hello.py
+ 1303  whereis python
+ 1304  nano hello.py
+ 1305  ./hello.py
+ 1306  chmod 744 hello.py
+ 1307  ./hello.py
+ 1308  nano hello.py
+ 1309  ./hello.py
+ 1310  nano hello.py
+ 1311  ./hello.py
+ 1312  nano hello.py
+ 1313  ./hello.py
+ 1314  nano hello.py
+ 1315  ./hello.py
+ 1316  nano hello.py
+ 1317  ./hello.py
+ 1318  nano hello.py
+ 1319  ./hello.py
+ 1320  nano hello.py
+ 1321  ./hello.py
+ 1322  nano hello.py
+ 1323  ./hello.py
+ 1324  nano hello.py
+ 1325  ./hello.py
+ 1326  nano hello.py
+ 1327  ./hello.py
+ 1328  nano hello.py
+ 1329  ./hello.py
+ 1330  nano hello.py
+ 1331  ./hello.py
+ 1332  nano hello.py
+ 1333  ./hello.py
+ 1334  nano hello.py
+ 1335  ./hello.py
+ 1336  nano hello.py
+ 1337  ./hello.py
+ 1338  nano hello.py
+ 1339  ./hello.py
+ 1340  nano hello.py
+ 1341  ./hello.py
+ 1342  nano hello.py
+ 1343  ./hello.py
+ 1344  nano variables.py
+ 1345  chmod 744 variables.py
+ 1346  nano variables.py
+ 1347  ./variables.py
+ 1348  nano variables.py
+ 1349  ./variables.py
+ 1350  nano variables.py
+ 1351  ./variables.py
+ 1352  nano variables.py
+ 1353  ./variables.py
+ 1354  nano variables.py
+ 1355  ./variables.py
+ 1356  nano variables.py
+ 1357  ./variables.py
+ 1358  nano variables.py
+ 1359  ./variables.py
+ 1360  nano variables.py
+ 1361  ./variables.py
+ 1362  nano variables.py
+ 1363  ./variables.py
+ 1364  nano dialogs.py
+ 1365  chmod 744 dialogs.py
+ 1366  ./dialogs.py
+ 1367  nano dialogs.py
+ 1368  ./dialogs.py
+ 1369  nano dialogs.py
+ 1370  ./dialogs.py
+ 1371  nano dialogs.py
+ 1372  ./dialogs.py
+ 1373  nano dialogs.py
+ 1374  ./dialogs.py
+ 1375  nano dialogs.py
+ 1376  ./dialogs.py
+ 1377  nano dialogs.py
+ 1378  ./dialogs.py
+ 1379  nano dialogs.py
+ 1380  ./dialogs.py
+ 1381  nano dialogs.py
+ 1382  ./dialogs.py
+ 1383  nano dialogs.py
+ 1384  ./dialogs.py
+ 1385  nano dialogs.py
+ 1386  ./dialogs.py
+ 1387  nano dialogs.py
+ 1388  ./dialogs.py
+ 1389  nano dialogs.py
+ 1390  ./dialogs.py
+ 1391  s
+ 1392  nano dialogs.py
+ 1393  ./dialogs.py
+ 1394  nano dialogs.py
+ 1395  ./dialogs.py
+ 1396  nano dialogs.py
+ 1397  ./dialogs.py
+ 1398  nano dialogs.py
+ 1399  ./dialogs.py
+ 1400  nano dialogs.py
+ 1401  ./dialogs.py
+ 1402  nano dialogs.py
+ 1403  ./dialogs.py
+ 1404  nano dialogs.py
+ 1405  nano if.py
+ 1406  chmod 744 if.py
+ 1407  ./if.py
+ 1408  python if.py
+ 1409  nano if.py
+ 1410  python if.py
+ 1411  nano if.py
+ 1412  python if.py
+ 1413  0
+ 1414  python if.py
+ 1415  idle &
+ 1416  cd ..
+ 1417  history > history_20171108.txt
+ 1418  cat git-upload
+ 1419  ./git-upload 20171108_16_00
+ 1420  firefox &
+ 1421  git upload https://github.com/KriVro98/DMI
+ 1422  git-upload https://github.com/KriVro98/DMI
+ 1423  git clone https://github.com/KriVro98/DMI
+ 1424  cd DMI
+ 1425  ls -l
+ 1426  cd
+ 1427  rm -rf DMI
+ 1428  git clone https://github.com/KriVro98/DMI
+ 1429  nano variable
+ 1430  nano variables
+ 1431  nano variables.py
+ 1432  ./ variables.py
+ 1433  ./variables.py
+ 1434  chmod 744 variables.py
+ 1435  ./variables.py
+ 1436  nano variables.py
+ 1437  chmod 744 variables.py
+ 1438  nano variables.py
+ 1439  ./variables.py
+ 1440  nano variables.py
+ 1441  ./variables.py
+ 1442  chmod 744 variables.py
+ 1443  ./variables.py
+ 1444  nano variables.py
+ 1445  ./variables.py
+ 1446  nano variables.py
+ 1447  ./variables.py
+ 1448  nano variables.py
+ 1449  ./variables.py
+ 1450  nano variables.py
+ 1451  nano dialogs.py
+ 1452  ./dialogs.py
+ 1453  chmod 744 dialogs.py
+ 1454  ./dialogs.py
+ 1455  chmod 744 dialogs.py
+ 1456  mv dialogs.py DMI
+ 1457  ls -l
+ 1458  cd DMI
+ 1459  ls -l
+ 1460  nano dialogs.py
+ 1461  ./dialogs.py
+ 1462  chmod 744 dialogs.py
+ 1463  ./dialogs.py
+ 1464  nano dialogs.py
+ 1465  ./dialogs.py 7
+ 1466  ./dialogs.py 7fasfasfasfasfasf
+ 1467  mv dialogs.py PYTHON
+ 1468  mv variables.py PYTHON
+ 1469  cd PYTHON
+ 1470  ls -l
+ 1471  ./dialogs.py
+ 1472  nano dialogs.py
+ 1473  lhfplhpflhpflh
+ 1474  cmnds
+ 1475  commands
+ 1476  ./dialogs.py
+ 1477  nano dialogs.py
+ 1478  ./dialogs.py
+ 1479  chmod 744 dialogs.py
+ 1480  ./dialogs.py
+ 1481  nano dialogs.py
+ 1482  ./dialogs.py
+ 1483  nano dialogs.py
+ 1484  ./dialogs.py
+ 1485  nano dialogs.py
+ 1486  ./dialogs.py
+ 1487  nano dialogs.py
+ 1488  ./dialogs.py./dialogs.py
+ 1489  ./dialogs.py
+ 1490  cd ..
+ 1491  history > history_20171109.txt
+ 1492  cat git-upload
+ 1493  nano git_upload
+ 1494  nano git-upload
+ 1495  git upload
+ 1496  ./git-upload
+ 1497  cd ..
+ 1498  firefox &
+ 1499  pwd
+ 1500  git clone https://github.com/Neimanis322/DMI
+ 1501  ls -lt
+ 1502  rm -rf DMI
+ 1503  git clone https://github.com/Neimanis322/DMI
+ 1504  ls -lt
+ 1505  cd DMI/
+ 1506  mkdir  PYTHON
+ 1507  LS -L
+ 1508  ls -l
+ 1509  cd PYTHON
+ 1510  nano hello.py
+ 1511  whereis python
+ 1512  nano hello.py
+ 1513  ./hello.py
+ 1514  chmod 744 hello.py
+ 1515  ./hello.py
+ 1516  nano hello.py
+ 1517  ./hello.py
+ 1518  nano hello.py
+ 1519  ./hello.py
+ 1520  nano hello.py
+ 1521  ./hello.py
+ 1522  nano hello.py
+ 1523  ./hello.py
+ 1524  nano hello.py
+ 1525  ./hello.py
+ 1526  nano hello.py
+ 1527  ./hello.py
+ 1528  nano hello.py
+ 1529  ./hello.py
+ 1530  nano hello.py
+ 1531  ./hello.py
+ 1532  nano hello.py
+ 1533  ./hello.py
+ 1534  nano hello.py
+ 1535  ./hello.py
+ 1536  nano hello.py
+ 1537  ./hello.py
+ 1538  nano hello.py
+ 1539  ./hello.py
+ 1540  nano hello.py
+ 1541  ./hello.py
+ 1542  nano hello.py
+ 1543  ./hello.py
+ 1544  nano hello.py
+ 1545  ./hello.py
+ 1546  nano hello.py
+ 1547  ./hello.py
+ 1548  nano hello.py
+ 1549  ./hello.py
+ 1550  nano hello.py
+ 1551  ./hello.py
+ 1552  nano hello.py
+ 1553  ./hello.py
+ 1554  nano variables.py
+ 1555  ./hello.py
+ 1556  ./ variables.py
+ 1557  chmod 744 variables.py
+ 1558  ./ variables.py
+ 1559  ./variables.py
+ 1560  nano variables.py
+ 1561  ./variables.py
+ 1562  nano variables.py
+ 1563  ./variables.py
+ 1564  nano variables.py
+ 1565  ./variables.py
+ 1566  nano variables.py
+ 1567  git clone https://github.com/Neimanis322/DMI
+ 1568  ls -l
+ 1569  git clone https://github.com/Neimanis322/DMI
+ 1570  rm -rf
+ 1571  git clone https://github.com/Neimanis322/DMI
+ 1572  rm -rf DMI
+ 1573  git clone https://github.com/Neimanis322/DMI
+ 1574  DMI
+ 1575  /DMI
+ 1576  ./DMI
+ 1577  .DMI
+ 1578  cd DMI
+ 1579  ls -l
+ 1580  mkdir PYTHON
+ 1581  cd PYTHON
+ 1582  nano variables.py
+ 1583  chmod 744 variables.py
+ 1584  ./variables.py
+ 1585  nano dialogs.py
+ 1586  nano if.py
+ 1587  5
+ 1588  nano if.py
+ 1589  python if.py
+ 1590  nano if.py
+ 1591  python if.py
+ 1592  nano if.py
+ 1593  python if.py
+ 1594  nano if.py
+ 1595  idle &
+ 1596  nano if.py
+ 1597  ./git-upload
+ 1598  ls -l
+ 1599  cd ..
+ 1600  history > history_20171109.txt
+ 1601  nano git-upload
+ 1602  ./git-upload
+ 1603  ssh x171REB171@213.175.92.22
+ 1604  firefox
+ 1605  clone https://github.com/Stefanija101/DMI.git
+ 1606  clone https://github.com/Stefanija101/DMI
+ 1607  git clone https://github.com/Stefanija101/DMI.git
+ 1608  clone https://github.com/Stefanija101/DMI
+ 1609  git clone https://github.com/Stefanija101/DMI
+ 1610  rm -rf
+ 1611  rm -rf DMI
+ 1612  git clone https://github.com/Stefanija101/DMI
+ 1613  cd DMI
+ 1614  cd python
+ 1615  cd PYTHON
+ 1616  NANO sin_caur_summu_ver1.py
+ 1617  nano sin_caur_summu_ver1.py
+ 1618  python sin_caur_summu_ver1.py 
+ 1619  nano sin_caur_summu_ver1.py
+ 1620  python sin_caur_summu_ver1.py 
+ 1621  nano sin_caur_summu_ver1.py
+ 1622  python sin_caur_summu_ver1.py 
+ 1623  nano sin_caur_summu_ver1.py
+ 1624  python sin_caur_summu_ver1.py 
+ 1625  nano sin_caur_summu_ver1.py
+ 1626  python sin_caur_summu_ver1.py 
+ 1627  nano sin_caur_summu_ver1.py
+ 1628  python sin_caur_summu_ver1.py 
+ 1629  nano sin_caur_summu_ver1.py
+ 1630  python sin_caur_summu_ver1.py 
+ 1631  nano sin_caur_summu_ver1.py
+ 1632  python sin_caur_summu_ver1.py 
+ 1633  nano sin_caur_summu_ver1.py
+ 1634  python sin_caur_summu_ver1.py 
+ 1635  nano sin_caur_summu_ver1.py
+ 1636  python sin_caur_summu_ver1.py 
+ 1637  nano sin_caur_summu_ver1.py
+ 1638  cp sin_caur_summu_ver1.py sin_caur_summu_ver2.py 
+ 1639  ls -l
+ 1640  nano sin_caur_summu_ver2.py
+ 1641  python sin_caur_summu_ver2.py 
+ 1642  cp sin_caur_summu_ver2.py sin_caur_summu_ver3.py
+ 1643  ls -l
+ 1644  nano sin_caur_summu_ver2.py
+ 1645  python sin_caur_summu_ver3.py 
+ 1646  nano sin_caur_summu_ver3.py
+ 1647  mv sin_caur_summu_ver2.py sin_caur_summu_ver2a.py 
+ 1648  mv sin_caur_summu_ver3.py sin_caur_summu_ver2.py 
+ 1649  mv sin_caur_summu_ver2a.py sin_caur_summu_ver3.py 
+ 1650  ls -l
+ 1651  cat sin_caur_summu_ver1.py 
+ 1652  cat sin_caur_summu_ver2.py 
+ 1653  cat sin_caur_summu_ver3.py 
+ 1654  cd ..
+ 1655  history > history_20171115.txt
+ 1656  ./git-upload 20171115_16_10
+ 1657  firefox
+ 1658  ls -l
+ 1659  firefox
+ 1660  firefox &
+ 1661  cd DMI
+ 1662  ./
+ 1663  cd
+ 1664  rm DMI
+ 1665  cd dmi
+ 1666  cd DMI
+ 1667  rm DMI
+ 1668  ls -l
+ 1669  cd
+ 1670  ls -l
+ 1671  git clone https://github.com/KriVro98/DMI
+ 1672  rv
+ 1673  rm DMI
+ 1674  rm ./DMI
+ 1675  rm -rf DMI
+ 1676  git clone https://github.com/KriVro98/DMI
+ 1677  cd D
+ 1678  cd DMI
+ 1679  cd PYTHON
+ 1680  ls -'
+ 1681  cd
+ 1682  ls -l
+ 1683  nano if.py
+ 1684  nano while.py
+ 1685  chmod 744 if.py
+ 1686  chmod 744 while.py
+ 1687  ./if.py
+ 1688  ./while.py
+ 1689  nano if.py
+ 1690  ./if.py
+ 1691  nano if.py
+ 1692  ./if.py
+ 1693  ./while.py
+ 1694  nano while.py
+ 1695  ./while.py
+ 1696  :)
+ 1697  nano sin_caur_summu_ver1.py
+ 1698  ./sin_caur_summu_ver1.py
+ 1699  chmod 744 sin_caur_summu_ver1.py
+ 1700  ./sin_caur_summu_ver1.py
+ 1701  nano sin_caur_summu_ver1.py
+ 1702  ./sin_caur_summu_ver1.py
+ 1703  2
+ 1704  ./sin_caur_summu_ver1.py
+ 1705  nano sin_caur_summu_ver1.py
+ 1706  ./sin_caur_summu_ver1.py
+ 1707  fdsssssssssssssssssssssssssssss
+ 1708  ./sin_caur_summu_ver1.py
+ 1709  nano sin_caur_summu_ver1.py
+ 1710  ./sin_caur_summu_ver1.py
+ 1711  nano sin_caur_summu_ver1.py
+ 1712  ./sin_caur_summu_ver1.py
+ 1713  python sin_caur_summu_ver1.py
+ 1714  cp sin_caur_summu_ver1.py sin_caur_summu_ver2.py
+ 1715  nano sin_caur_summu_ver1.py
+ 1716  python sin_caur_summu_ver1.py
+ 1717  nano sin_caur_summu_ver1.py
+ 1718  python sin_caur_summu_ver1.py
+ 1719  nano sin_caur_summu_ver1.py
+ 1720  python sin_caur_summu_ver1.py
+ 1721  nano sin_caur_summu_ver1.py
+ 1722  python sin_caur_summu_ver1.py
+ 1723  nano sin_caur_summu_ver1.py
+ 1724  python sin_caur_summu_ver1.py
+ 1725  nano sin_caur_summu_ver1.py
+ 1726  python sin_caur_summu_ver1.pypython sin_caur_summu_ver1.py
+ 1727  nano sin_caur_summu_ver1.py
+ 1728  python sin_caur_summu_ver1.py
+ 1729  nano sin_caur_summu_ver1.py
+ 1730  python sin_caur_summu_ver1.py
+ 1731  nano sin_caur_summu_ver1.py
+ 1732  python sin_caur_summu_ver1.py
+ 1733  nano sin_caur_summu_ver1.py
+ 1734  python sin_caur_summu_ver1.py
+ 1735  124.424
+ 1736  1
+ 1737  python sin_caur_summu_ver1.py
+ 1738  nano sin_caur_summu_ver1.py
+ 1739  cp sin_caur_summu_ver1.py sin_caur_summu_ver2.py
+ 1740  nano sin_caur_summu_ver2.py
+ 1741  python sin_caur_summu_ver2.py
+ 1742  nano sin_caur_summu_ver2.py
+ 1743  y
+ 1744  nano sin_caur_summu_ver2.py
+ 1745  y
+ 1746  python sin_caur_summu_ver2.py
+ 1747  cp sin_caur_summu_ver2.py sin_caur_summu_ver5.py
+ 1748  nano sin_caur_summu_ver5.py
+ 1749  python sin_caur_summu_ver5.py
+ 1750  nano sin_caur_summu_ver5.py
+ 1751  python sin_caur_summu_ver5.py
+ 1752  nano sin_caur_summu_ver5.py
+ 1753  python sin_caur_summu_ver5.py
+ 1754  nano sin_caur_summu_ver5.py
+ 1755  python sin_caur_summu_ver5.py
+ 1756  nano sin_caur_summu_ver5.py
+ 1757  python sin_caur_summu_ver5.py
+ 1758  nano sin_caur_summu_ver5.py
+ 1759  cd
+ 1760  ls -l]
+ 1761  ls -l
+ 1762  cd DMI
+ 1763  ls -l
+ 1764  history > history_20171116.txt
+ 1765  git-upload
+ 1766  git-upload git upload
+ 1767  ./git-upload
+ 1768  dab
+ 1769  cr
+ 1770  cf
+ 1771  cc
+ 1772  clear
+ 1773  firefox &
+ 1774  rm -rf DMI
+ 1775  git clone https://github.com/Neimanis322/DMI
+ 1776  cd DMI
+ 1777  cd PYTHONls
+ 1778  cd PYTHON
+ 1779  nano sin_caur_summu_ver1.py
+ 1780  Lietotāj, lūdzu, ievadi argumentu (x): 1.5
+ 1781  nano sin_caur_summu_ver1.py
+ 1782  x
+ 1783  y
+ 1784  ./ sin_caur_summu_ver1.py
+ 1785  chmod 744 sin_caur_summu_ver1.py
+ 1786  nano sin_caur_summu_ver1.py
+ 1787  python sin_caur_summu_ver1.py
+ 1788  nano sin_caur_summu_ver1.py
+ 1789  python sin_caur_summu_ver1.py
+ 1790  nano sin_caur_summu_ver1.py
+ 1791  python sin_caur_summu_ver1.py
+ 1792  nano sin_caur_summu_ver1.py
+ 1793  python sin_caur_summu_ver1.py
+ 1794  nano sin_caur_summu_ver1.py
+ 1795  python sin_caur_summu_ver1.py
+ 1796  nano sin_caur_summu_ver1.py
+ 1797  python sin_caur_summu_ver1.py
+ 1798  nano sin_caur_summu_ver1.py
+ 1799  python sin_caur_summu_ver1.py
+ 1800  nano sin_caur_summu_ver1.py
+ 1801  python sin_caur_summu_ver1.py
+ 1802  nano sin_caur_summu_ver1.py
+ 1803  python sin_caur_summu_ver1.py
+ 1804  nano sin_caur_summu_ver1.py
+ 1805  cp  sin_caur_summu_ver1.py sin_caur_summu_ver2.py
+ 1806  nano sin_caur_summu_ver2.py
+ 1807  python sin_caur_summu_ver2.py
+ 1808  nano sin_caur_summu_ver2.py
+ 1809  cp sin_caur_summu_ver2.py sin_caur_summu_ver3.py
+ 1810  nano sin_caur_summu_ver3.py
+ 1811  python sin_caur_summu_ver3.py
+ 1812  nano sin_caur_summu_ver3.py
+ 1813  python sin_caur_summu_ver3.py
+ 1814  nano sin_caur_summu_ver3.py
+ 1815  python sin_caur_summu_ver3.py
+ 1816  nano git-upload
+ 1817  cd./
+ 1818  cd..
+ 1819  cd/
+ 1820  cd..
+ 1821  cd ..
+ 1822  history > history20171116
+ 1823  nano git-upload
+ 1824  ./git-upload
+ 1825  ssh x171REB171@213.175.92.22
+ 1826  firefox &
+ 1827  git clone https://github.com/Stefanija101
+ 1828  rm -rf DMI
+ 1829  git clone https://github.com/Stefanija101/DMI
+ 1830  cd DMI
+ 1831  cd PYTHON
+ 1832  nano sin_caur_summu_ver3.py
+ 1833  python sin_caur_summu_ver3.py
+ 1834  nano sin_caur_summu_ver3.py
+ 1835  python sin_caur_summu_ver3.py
+ 1836  nano sin_caur_summu_ver3.py
+ 1837  python sin_caur_summu_ver3.py
+ 1838  nano sin_caur_summu_ver3.py
+ 1839  python sin_caur_summu_ver3.py
+ 1840  cp sin_caur_summu_ver3.py sin_caur_summu_ver4.py
+ 1841  nano sin_caur_summu_ver4.py
+ 1842  python sin_caur_summu_ver4.py
+ 1843  nano sin_caur_summu_ver4.py
+ 1844  cp sin_caur_summu_ver4.py sin_caur_summu_ver5.py
+ 1845  nano sin_caur_summu_ver5.py
+ 1846  python sin_caur_summu_ver5.py
+ 1847  nano sin_caur_summu_ver5.py
+ 1848  cp sin_caur_summu_ver5.py sin_caur_summu_.py
+ 1849  nano sin_caur_summu_.py
+ 1850  python sin_caur_summu_.py
+ 1851  nano sin_caur_summu_.py
+ 1852  python sin_caur_summu_.py
+ 1853  nano sin_caur_summu_.py
+ 1854  python sin_caur_summu_.py
+ 1855  nano sin_caur_summu_.py
+ 1856  python sin_caur_summu_.py
+ 1857  nano sin_caur_summu_.py
+ 1858  python sin_caur_summu_.py
+ 1859  nano sin_caur_summu_.py
+ 1860  python sin_caur_summu_.py
+ 1861  nano sin_caur_summu_.py
+ 1862  python sin_caur_summu_.py
+ 1863  nano sin_caur_summu_.py
+ 1864  python sin_caur_summu_.py
+ 1865  nano sin_caur_summu_.py
+ 1866  python sin_caur_summu_.py
+ 1867  nano sin_caur_summu_.py
+ 1868  python sin_caur_summu_.py
+ 1869  python sin_caur_summu_.py
+ 1870  nano sin_caur_summu_.py
+ 1871  python sin_caur_summu_.py
+ 1872  nano sin_caur_summu_.py
+ 1873  python sin_caur_summu_.py
+ 1874  nano sin_caur_summu_.py
+ 1875  python sin_caur_summu_.py
+ 1876  nano sin_caur_summu_.py
+ 1877  python sin_caur_summu_.py
+ 1878  nano sin_caur_summu_.py
+ 1879  python sin_caur_summu_.py
+ 1880  nano sin_caur_summu_.py
+ 1881  python sin_caur_summu_.py
+ 1882  nano sin_caur_summu_.py
+ 1883  python sin_caur_summu_.py
+ 1884  nano sin_caur_summu_.py
+ 1885  python sin_caur_summu_.py
+ 1886  nano sin_caur_summu_.py
+ 1887  python sin_caur_summu_.py
+ 1888  nano sin_caur_summu_.py
+ 1889  python sin_caur_summu_.py
+ 1890  cd ..
+ 1891  cat git-upload
+ 1892  history > history_20171122
+ 1893  ./git-upload 20171122_16_15
+ 1894  firefox
+ 1895  ls -l
+ 1896  cd DMI
+ 1897  ls -l
+ 1898  cd
+ 1899  rm DMI
+ 1900  rf DMI
+ 1901  rm -rf DMI
+ 1902  ls -l
+ 1903  clear
+ 1904  git clone https://github.com/KriVro98/DMI
+ 1905  cd DMI
+ 1906  cd PYTHON
+ 1907  idle &
+ 1908  firefox &
+ 1909  las -l
+ 1910  ls -lls -l
+ 1911  cd
+ 1912  cd..
+ 1913  cd ..
+ 1914  histroy > history_20171123.txt
+ 1915  cd DMI
+ 1916  histroy > history_20171123.txt
+ 1917  cd
+ 1918  histroy > history_20171123.txt
+ 1919  cd DMI
+ 1920  histroy > history_20171123.txt
+ 1921  ls -l
+ 1922  cmhod history_20171123.tx
+ 1923  cmhod history_20171123.txt
+ 1924  cmhod 744 history_20171123.txt
+ 1925  git upload
+ 1926  git-upload
+ 1927  ./git upload
+ 1928  ./git-upload
+ 1929  idle
+ 1930  exit
+ 1931  su rtu
+ 1932  exit
+ 1933  ssh -X171REB171@213.175.92.22
+ 1934  gnuplot
+ 1935  cd darbi/P06
+ 1936  ssh -X171REB171@213.175.92.22
+ 1937  ssh -x171REB171@213.175.92.22
+ 1938  ssh -X x171REB171@213.175.92.22
+ 1939  firefox
+ 1940  rm -rf DMI
+ 1941  git clone
+ 1942  git clone http://github.com/santamaksimova/DMI
+ 1943  idle &
+ 1944  cd
+ 1945  cd Phyton
+ 1946  cd DMI
+ 1947  cd PYTHON
+ 1948  ls -l
+ 1949  cd PHYTON
+ 1950  idle &
+ 1951  cat python_diary_20171129.py
+ 1952  idle &
+ 1953  cd ..
+ 1954  history > history_20171129.txt
+ 1955  ./git-upload 20171129_11_55
+ 1956  rm -rf DMI
+ 1957  firefox
+ 1958  rm -rf DMI
+ 1959  git clone https://github.com/Stefanija101
+ 1960  git clone https://github.com/Stefanija101/DMI
+ 1961  cd DMI
+ 1962  cd PYTHON
+ 1963  idle &
+ 1964  ls -l
+ 1965  cat python_diary_29112017.py
+ 1966  idle &
+ 1967  firefrox &
+ 1968  firefrox $
+ 1969  firefrox 
+ 1970  firefox $
+ 1971  cd ..
+ 1972  history > history 
+ 1973  .git-upload 20171129_16_05
+ 1974  ./\git-upload 20171129_16_05
+ 1975  firifox
+ 1976  firefox
+ 1977  git clone https://github.com/ionin98/DMI
+ 1978  ls -l
+ 1979  rm -rf DMI
+ 1980  ls -l
+ 1981  https://github.com/ionin98/DMI
+ 1982  git clone https://github.com/ionin98/DMI
+ 1983  cd PYTHON
+ 1984  cd DMI
+ 1985  cd PHYTON
+ 1986  cd python
+ 1987  cd PYTHON
+ 1988  idle &
+ 1989  cat Python_dienasgramata_
+ 1990  idle &
+ 1991  ssh -X x171REB171@213.175.92.22
+ 1992  firefox
+ 1993  rm -rf DMI
+ 1994  git clone http://github.com/santamaksimova/DMI
+ 1995  PYTHON
+ 1996  cd
+ 1997  ls-l
+ 1998  PHYTON
+ 1999  ch PHYTON
+ 2000  cd P
+ 2001  cd PHYT
+ 2002  cd PHYTON
+ 2003  ls -l
+ 2004  rm -rf DMI
+ 2005  git clone http://github.com/santamaksimova/DMI
+ 2006  ls -l
+ 2007  cd PHYTON
+ 2008  ls -lt
+ 2009  cd DMI
+ 2010  cd PHYTON
+ 2011  idle
+ 2012  cd PHYTON
+ 2013  idle
+ 2014  cd ..
+ 2015  history > history_20171206.txt
