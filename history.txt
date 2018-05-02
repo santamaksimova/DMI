@@ -1,30 +1,67 @@
-    1  firefox
-    2  man echo
-    3  echo Tecmint is a community of Linux Nerds
-    4  x=10
-    5  echo The value of variable x = $x
-    6  echo -e "Tecmint \bis \ba \bcomminity \bof \bLinux \bNerds"
-    7  -e "Tecmint \nis \na \ncommunity \nof \nLinux \nNerds"
-    8  echo -e "Tecmint \nis \na \ncommunity \nof \nLinux \nNerds"
-    9  echo -e "Tecmint \tis \ta \tcommunity \tof \tLinux \tNerds"
-   10  echo -e "\n\tTecmint \n\tis \n\ta \n\tcommunity \n\tof \n\tLinux \n\"
-echo -e "\n\tTecmint \n\tis \n\ta \n\tcommunity \n\tof \n\tLinux \n\tNerds"
-echo -e "\n\tTecmint \n\tis \n\ta \n\tcommunity \n\tof \n\tLinux \n\"
-   11  echo -e "\n\tTecmint \n\tis \n\ta \n\tcommunity \n\tof \n\tLinux \n\tNerds"
-   12  echo -e"\vTecmint \vis \va \vcommunity \vof \vLinux \vNerds"
-   13  echo -e "vTecmint \vis \va \vcommunity \vof \vLinux \vNerds"
-   14  echo -e "\n\vTecmint \n\vis \n\va \n\vcommunity \n\vof \n\vLinux \n\vNerds"
-   15* 
-   16  echo -e "Tecmint is a community \cof Linux Nerds"
-   17  echo -n "Tecmint is a community of Linux Nerds"
-   18  echo -e "Tecmint is a community of \aLinux Nerds"
-   19  echo *
-   20  echo *.jpeg
-   21  echo*.jpeg
-   22  echo "Test Page" > testpage
-   23  cat testpage
-   24  echo *.ccc
-   25  echo "Test Page"
-   26  echo "pwd"
-   27  ls -l
-   28  history > history.txt
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/santa.maksimova/DMI
+    4  git clone https://github.com/santamaksimova/DMI
+    5  ls
+    6  cd DMI
+    7  mkdir node
+    8  cd node
+    9  install node
+   10  i node
+   11  pkg install nodejs
+   12  nodejs
+   13  wget https://nodejs.org/dist/v6.14.1/node-v6.14.1-linux-x64.tar.gz
+   14  ls
+   15  tar xvzf node-v6.14.1-linux-x64.tar.gz 
+   16  ls
+   17  cd node-v6.14.1-linux-x64/
+   18  ls
+   19  cd bin
+   20  ls
+   21  cd node
+   22  ./node
+   23  rm -rf node-v6.14.1-linux-ppc64le
+   24  rm -rf node-v6.14.1-linux-ppc64le.tar.gz
+   25  wget https://nodejs.org/dist/v6.14.1/node-v6.14.1-linux-x64.tar.gz
+   26  tar xvzf node-v6.14.1-linux-x64.tar.gz 
+   27  ls
+   28  chmod +x node
+   29  ls 
+   30  cd node
+   31  echo $PATH
+   32  pwd
+   33  PATH=`pwd` :$PATH
+   34  echo $PATH
+   35  npm
+   36  npm install http-server
+   37  ./npm
+   38  ls
+   39  cd npm
+   40  chmod 744 npm
+   41  cd npm
+   42  ls
+   43  install npm
+   44  ls
+   45  cd npm
+   46  ls]
+   47  ls
+   48  cd node-v6.14.1-linux-x64/
+   49  ls
+   50  cd bin
+   51  cd ls
+   52  ls
+   53  ./npm
+   54  ls
+   55  PATH`pwd`:$PATH
+   56  PATH=`pwd`:$PATH
+   57  ./node
+   58  npm install http-server
+   59  PATH`pwd`:$PATH
+   60  npm install bower
+   61  d
+   62  cd 
+   63  ls
+   64  cd DMI
+   65  history.txt
+   66  history
+   67  history >history.txt
